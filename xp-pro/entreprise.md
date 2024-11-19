@@ -2,9 +2,9 @@
 
 ## L'activité principale
 
-> Décris en quelques lignes l'activité principale de l'entreprise
+L'entreprise dans laquelle je suis crée des solutions internet pour des entreprises du secteur publiques
 
 ## Ton équipe
 
-> Décris l'équipe avec laquelle tu travailles, les différents postes et ton interaction avec ces postes.
+Je suis en front du fait je fais beacoup de html, scss, js natif
 
